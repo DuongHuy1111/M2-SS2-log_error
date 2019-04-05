@@ -1,0 +1,10 @@
+[Fri Apr 05 11:06:25.646771 2019] [mpm_prefork:notice] [pid 1099] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Fri Apr 05 11:06:25.646792 2019] [core:notice] [pid 1099] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 05 11:10:05.316164 2019] [php7:notice] [pid 6764] [client ::1:37366] PHP Notice:  Undefined variable: num2 in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 34, referer: http://localhost/backend/Module%202/SS1/
+[Fri Apr 05 11:10:05.316199 2019] [php7:notice] [pid 6764] [client ::1:37366] PHP Notice:  Undefined variable: num2 in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 38, referer: http://localhost/backend/Module%202/SS1/
+[Fri Apr 05 11:10:05.316208 2019] [php7:notice] [pid 6764] [client ::1:37366] PHP Notice:  Undefined variable: num2 in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 42, referer: http://localhost/backend/Module%202/SS1/
+[Fri Apr 05 11:10:05.316214 2019] [php7:notice] [pid 6764] [client ::1:37366] PHP Notice:  Undefined variable: num2 in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 46, referer: http://localhost/backend/Module%202/SS1/
+[Fri Apr 05 11:10:14.392208 2019] [php7:warn] [pid 6766] [client ::1:37372] PHP Warning:  A non-numeric value encountered in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 35, referer: http://localhost/backend/Module%202/SS1/BT2/
+[Fri Apr 05 11:10:14.392254 2019] [php7:warn] [pid 6766] [client ::1:37372] PHP Warning:  A non-numeric value encountered in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 35, referer: http://localhost/backend/Module%202/SS1/BT2/
+[Fri Apr 05 11:10:14.599602 2019] [php7:warn] [pid 6766] [client ::1:37372] PHP Warning:  A non-numeric value encountered in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 35, referer: http://localhost/backend/Module%202/SS1/BT2/
+[Fri Apr 05 11:10:14.599668 2019] [php7:warn] [pid 6766] [client ::1:37372] PHP Warning:  A non-numeric value encountered in /var/www/html/backend/Module 2/SS1/BT2/index.php on line 35, referer: http://localhost/backend/Module%202/SS1/BT2/
